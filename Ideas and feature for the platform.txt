@@ -1,0 +1,32 @@
+Goal build a job hunting platform.
+
+
+1.  Feed are populated based on job update in minute from social media platform notification
+2.  Validate company's identity and job vacancy
+3.  Get referral for the role feature from top expert
+4.  Community member get to know who got the role and why 
+5.  Community member get to know and improve feedback from the company
+6.  Update on  volunteering roles and community service to gain require experience for a role
+7.  Internship opportunity to gain experience
+8.  update on conference to meet expert in your niche 
+9.  Customize training that meet your skill level as person
+10. Expert consultation for career transition for hours paid service
+
+
+Other features for.
+
+Goals
+Save time and resources while job hunting
+Reduce stress for student or latest grad masters or undergraduate in finding internship and jobs
+Help company to get good talent, solving organization quality human resource problem
+
+
+Strategy
+share update of job info.... token is given
+business owners partnering and working with us
+
+
+ideals job for age bracket
+18-25 ... Help  them get experience or paid job
+
+23- 45 .... Help grow income while serving with business
